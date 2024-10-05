@@ -1,0 +1,38 @@
+* {}
+
+body {
+  background-color: beige;
+}
+
+.contenedor_principal {
+  background-color: azure;
+}
+
+.contenedor_principal > .parrafo {
+  color: yellow;
+  font-size: 24px;
+}
+
+/*  
+
+scbajscjkadd+c+ds
+dc
+ds
+cds
+c
+dsc
+sd
+c
+ds
+*/
+
+/* nfdsnfdksnfkdsfkn  */
+.contenedor_principal  >* > span > p, p {
+  color: yellow;
+  font-size: 24px;
+}
+
+.parrafo {
+  color: brown;
+  font-size: 24px;
+}
